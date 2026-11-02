@@ -8,12 +8,6 @@
 
 
 
-
-
-
-
-
-
 # --- Exercise 1 ---
 
 def calculate_tax(price, rate):
