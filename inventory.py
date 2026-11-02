@@ -1,3 +1,7 @@
+#reflection
+#1.) I was mostly suprised with how they labels things/ how to navigate a list. I had no idea the last item could be labeled at -1.
+#2.) One job I think this could be useful for would be trying to find if the store does or doesn't have an item. This is because you could easily search for it rather than scrolling
+#endlestly.
 # --- Exercise 1 ---
 
 print("--- Exercise 1: Build a list ---")
